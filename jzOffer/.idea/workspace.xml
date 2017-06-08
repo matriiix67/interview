@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="jzOffer" targetName="40" />
+      <config projectName="jzOffer" targetName="41" />
+      <config projectName="jzOffer" targetName="20" />
+      <config projectName="jzOffer" targetName="42" />
+      <config projectName="jzOffer" targetName="21" />
+      <config projectName="jzOffer" targetName="43" />
+      <config projectName="jzOffer" targetName="22" />
+      <config projectName="jzOffer" targetName="44" />
+      <config projectName="jzOffer" targetName="01" />
+      <config projectName="jzOffer" targetName="23" />
+      <config projectName="jzOffer" targetName="45" />
+      <config projectName="jzOffer" targetName="02" />
+      <config projectName="jzOffer" targetName="24" />
+      <config projectName="jzOffer" targetName="46" />
+      <config projectName="jzOffer" targetName="03" />
+      <config projectName="jzOffer" targetName="25" />
+      <config projectName="jzOffer" targetName="47" />
+      <config projectName="jzOffer" targetName="04" />
+      <config projectName="jzOffer" targetName="26" />
+      <config projectName="jzOffer" targetName="48" />
+      <config projectName="jzOffer" targetName="05" />
+      <config projectName="jzOffer" targetName="27" />
+      <config projectName="jzOffer" targetName="06" />
+      <config projectName="jzOffer" targetName="28" />
+      <config projectName="jzOffer" targetName="07" />
+      <config projectName="jzOffer" targetName="29" />
+      <config projectName="jzOffer" targetName="08" />
+      <config projectName="jzOffer" targetName="09" />
+      <config projectName="jzOffer" targetName="30" />
+      <config projectName="jzOffer" targetName="31" />
+      <config projectName="jzOffer" targetName="10" />
+      <config projectName="jzOffer" targetName="32" />
+      <config projectName="jzOffer" targetName="34" />
+      <config projectName="jzOffer" targetName="13" />
+      <config projectName="jzOffer" targetName="35" />
+      <config projectName="jzOffer" targetName="14" />
+      <config projectName="jzOffer" targetName="36" />
+      <config projectName="jzOffer" targetName="15" />
+      <config projectName="jzOffer" targetName="37" />
+      <config projectName="jzOffer" targetName="16" />
+      <config projectName="jzOffer" targetName="38" />
+      <config projectName="jzOffer" targetName="17" />
+      <config projectName="jzOffer" targetName="39" />
+      <config projectName="jzOffer" targetName="18" />
+      <config projectName="jzOffer" targetName="19" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b689608-e3ea-4172-b5de-ef7a1398d5da" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/32.cpp" />
+        <option value="$PROJECT_DIR$/33.cpp" />
+        <option value="$PROJECT_DIR$/35.cpp" />
+        <option value="$PROJECT_DIR$/36.cpp" />
+        <option value="$PROJECT_DIR$/37.cpp" />
+        <option value="$PROJECT_DIR$/38.cpp" />
+        <option value="$PROJECT_DIR$/39.cpp" />
+        <option value="$PROJECT_DIR$/40.cpp" />
+        <option value="$PROJECT_DIR$/41.cpp" />
+        <option value="$PROJECT_DIR$/42.cpp" />
+        <option value="$PROJECT_DIR$/44.cpp" />
+        <option value="$PROJECT_DIR$/43.cpp" />
+        <option value="$PROJECT_DIR$/45.cpp" />
+        <option value="$PROJECT_DIR$/46.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/47.cpp" />
+        <option value="$PROJECT_DIR$/48.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jzOffer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jzOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.44">
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jzOffer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jzOffer" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jzOffer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jzOffer" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jzOffer" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jzOffer" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="01">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="02">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="03">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="04" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="04">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="05">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="06">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="07">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="08">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="09" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="09">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="10">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="13" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="13">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="14">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="15" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="15">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="16" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="16" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="16">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="17" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="17">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="18" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="18" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="18">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="19" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="19">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="20" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="20">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="21" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="21">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="22" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="22" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="22">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="23" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="23" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="23">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="24" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="24">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="25" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="25" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="25">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="26" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="26" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="26">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="27" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="27" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="27">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="28" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="28" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="28">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="29" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="29" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="29">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="30" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="30" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="30">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="31" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="31" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="31">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="32" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="32">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="34" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="34" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="34">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="35" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="35" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="35">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="36" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="36" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="36">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="37" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="37" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="37">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="38" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="38" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="38">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="39" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="39" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="39">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="40" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="40" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="40">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="41" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="41" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="41">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="42" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="42" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="42">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="43" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="43" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="43">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="44" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="44" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="44">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="45" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="45" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="45">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="46" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="46" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="46">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="47" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="47" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="47">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="48" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jzOffer" TARGET_NAME="48" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jzOffer" RUN_TARGET_NAME="48">
+      <envs />
+      <method />
+    </configuration>
+    <list size="46">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.02" />
+      <item index="3" class="java.lang.String" itemvalue="Application.03" />
+      <item index="4" class="java.lang.String" itemvalue="Application.04" />
+      <item index="5" class="java.lang.String" itemvalue="Application.05" />
+      <item index="6" class="java.lang.String" itemvalue="Application.06" />
+      <item index="7" class="java.lang.String" itemvalue="Application.07" />
+      <item index="8" class="java.lang.String" itemvalue="Application.08" />
+      <item index="9" class="java.lang.String" itemvalue="Application.09" />
+      <item index="10" class="java.lang.String" itemvalue="Application.10" />
+      <item index="11" class="java.lang.String" itemvalue="Application.13" />
+      <item index="12" class="java.lang.String" itemvalue="Application.14" />
+      <item index="13" class="java.lang.String" itemvalue="Application.15" />
+      <item index="14" class="java.lang.String" itemvalue="Application.16" />
+      <item index="15" class="java.lang.String" itemvalue="Application.17" />
+      <item index="16" class="java.lang.String" itemvalue="Application.18" />
+      <item index="17" class="java.lang.String" itemvalue="Application.19" />
+      <item index="18" class="java.lang.String" itemvalue="Application.20" />
+      <item index="19" class="java.lang.String" itemvalue="Application.21" />
+      <item index="20" class="java.lang.String" itemvalue="Application.22" />
+      <item index="21" class="java.lang.String" itemvalue="Application.23" />
+      <item index="22" class="java.lang.String" itemvalue="Application.24" />
+      <item index="23" class="java.lang.String" itemvalue="Application.25" />
+      <item index="24" class="java.lang.String" itemvalue="Application.26" />
+      <item index="25" class="java.lang.String" itemvalue="Application.27" />
+      <item index="26" class="java.lang.String" itemvalue="Application.28" />
+      <item index="27" class="java.lang.String" itemvalue="Application.29" />
+      <item index="28" class="java.lang.String" itemvalue="Application.30" />
+      <item index="29" class="java.lang.String" itemvalue="Application.31" />
+      <item index="30" class="java.lang.String" itemvalue="Application.32" />
+      <item index="31" class="java.lang.String" itemvalue="Application.34" />
+      <item index="32" class="java.lang.String" itemvalue="Application.35" />
+      <item index="33" class="java.lang.String" itemvalue="Application.36" />
+      <item index="34" class="java.lang.String" itemvalue="Application.37" />
+      <item index="35" class="java.lang.String" itemvalue="Application.38" />
+      <item index="36" class="java.lang.String" itemvalue="Application.39" />
+      <item index="37" class="java.lang.String" itemvalue="Application.40" />
+      <item index="38" class="java.lang.String" itemvalue="Application.41" />
+      <item index="39" class="java.lang.String" itemvalue="Application.42" />
+      <item index="40" class="java.lang.String" itemvalue="Application.43" />
+      <item index="41" class="java.lang.String" itemvalue="Application.44" />
+      <item index="42" class="java.lang.String" itemvalue="Application.45" />
+      <item index="43" class="java.lang.String" itemvalue="Application.46" />
+      <item index="44" class="java.lang.String" itemvalue="Application.47" />
+      <item index="45" class="java.lang.String" itemvalue="Application.48" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b689608-e3ea-4172-b5de-ef7a1398d5da" name="Default" comment="" />
+      <created>1496317848746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496317848746</updated>
+      <workItem from="1496317850723" duration="6305000" />
+      <workItem from="1496758189345" duration="2488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8793000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="23" width="1398" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="42" column="57" lean-forward="false" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/37.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/38.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="70" column="13" lean-forward="false" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/36.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/40.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="157" column="61" lean-forward="false" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/44.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#41#60#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="e#41#60#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#92#108#0" expanded="true" />
+            <element signature="e#188#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/47.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#91#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
