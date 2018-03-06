@@ -1,4 +1,4 @@
-/Users/god/CLionProjects/interview/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/god/CLionProjects/interview/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/god/CLionProjects/interview/cmake-build-debug/CMakeFiles/book1_002.dir
-/Users/god/CLionProjects/interview/cmake-build-debug/CMakeFiles/book1_001.dir
+/Users/god/Git/interview/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/god/Git/interview/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/god/Git/interview/cmake-build-debug/CMakeFiles/book1_002.dir
+/Users/god/Git/interview/cmake-build-debug/CMakeFiles/book1_001.dir
