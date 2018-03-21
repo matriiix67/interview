@@ -60,409 +60,1075 @@ CMAKE_SOURCE_DIR = /Users/god/Git/interview/leetcode
 CMAKE_BINARY_DIR = /Users/god/Git/interview/leetcode/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/2113.dir
+# Target rules for target CMakeFiles/2_1_9.dir
 
 # All Build rule for target.
-CMakeFiles/2113.dir/all:
-	$(MAKE) -f CMakeFiles/2113.dir/build.make CMakeFiles/2113.dir/depend
-	$(MAKE) -f CMakeFiles/2113.dir/build.make CMakeFiles/2113.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=71,72 "Built target 2113"
-.PHONY : CMakeFiles/2113.dir/all
+CMakeFiles/2_1_9.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_9.dir/build.make CMakeFiles/2_1_9.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_9.dir/build.make CMakeFiles/2_1_9.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=99,100 "Built target 2_1_9"
+.PHONY : CMakeFiles/2_1_9.dir/all
 
 # Include target in all.
-all: CMakeFiles/2113.dir/all
+all: CMakeFiles/2_1_9.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/2113.dir/rule: cmake_check_build_system
+CMakeFiles/2_1_9.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2113.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2113.dir/rule
+.PHONY : CMakeFiles/2_1_9.dir/rule
 
 # Convenience name for target.
-2113: CMakeFiles/2113.dir/rule
+2_1_9: CMakeFiles/2_1_9.dir/rule
 
-.PHONY : 2113
-
-# clean rule for target.
-CMakeFiles/2113.dir/clean:
-	$(MAKE) -f CMakeFiles/2113.dir/build.make CMakeFiles/2113.dir/clean
-.PHONY : CMakeFiles/2113.dir/clean
+.PHONY : 2_1_9
 
 # clean rule for target.
-clean: CMakeFiles/2113.dir/clean
+CMakeFiles/2_1_9.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_9.dir/build.make CMakeFiles/2_1_9.dir/clean
+.PHONY : CMakeFiles/2_1_9.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_9.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/212.dir
+# Target rules for target CMakeFiles/2_1_8.dir
 
 # All Build rule for target.
-CMakeFiles/212.dir/all:
-	$(MAKE) -f CMakeFiles/212.dir/build.make CMakeFiles/212.dir/depend
-	$(MAKE) -f CMakeFiles/212.dir/build.make CMakeFiles/212.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target 212"
-.PHONY : CMakeFiles/212.dir/all
+CMakeFiles/2_1_8.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_8.dir/build.make CMakeFiles/2_1_8.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_8.dir/build.make CMakeFiles/2_1_8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=98 "Built target 2_1_8"
+.PHONY : CMakeFiles/2_1_8.dir/all
 
 # Include target in all.
-all: CMakeFiles/212.dir/all
+all: CMakeFiles/2_1_8.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/212.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/212.dir/all
+CMakeFiles/2_1_8.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/212.dir/rule
+.PHONY : CMakeFiles/2_1_8.dir/rule
 
 # Convenience name for target.
-212: CMakeFiles/212.dir/rule
+2_1_8: CMakeFiles/2_1_8.dir/rule
 
-.PHONY : 212
-
-# clean rule for target.
-CMakeFiles/212.dir/clean:
-	$(MAKE) -f CMakeFiles/212.dir/build.make CMakeFiles/212.dir/clean
-.PHONY : CMakeFiles/212.dir/clean
+.PHONY : 2_1_8
 
 # clean rule for target.
-clean: CMakeFiles/212.dir/clean
+CMakeFiles/2_1_8.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_8.dir/build.make CMakeFiles/2_1_8.dir/clean
+.PHONY : CMakeFiles/2_1_8.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_8.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/219.dir
+# Target rules for target CMakeFiles/2_1_5.dir
 
 # All Build rule for target.
-CMakeFiles/219.dir/all:
-	$(MAKE) -f CMakeFiles/219.dir/build.make CMakeFiles/219.dir/depend
-	$(MAKE) -f CMakeFiles/219.dir/build.make CMakeFiles/219.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=93,94 "Built target 219"
-.PHONY : CMakeFiles/219.dir/all
+CMakeFiles/2_1_5.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_5.dir/build.make CMakeFiles/2_1_5.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_5.dir/build.make CMakeFiles/2_1_5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=93,94 "Built target 2_1_5"
+.PHONY : CMakeFiles/2_1_5.dir/all
 
 # Include target in all.
-all: CMakeFiles/219.dir/all
+all: CMakeFiles/2_1_5.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/219.dir/rule: cmake_check_build_system
+CMakeFiles/2_1_5.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/219.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/219.dir/rule
+.PHONY : CMakeFiles/2_1_5.dir/rule
 
 # Convenience name for target.
-219: CMakeFiles/219.dir/rule
+2_1_5: CMakeFiles/2_1_5.dir/rule
 
-.PHONY : 219
-
-# clean rule for target.
-CMakeFiles/219.dir/clean:
-	$(MAKE) -f CMakeFiles/219.dir/build.make CMakeFiles/219.dir/clean
-.PHONY : CMakeFiles/219.dir/clean
+.PHONY : 2_1_5
 
 # clean rule for target.
-clean: CMakeFiles/219.dir/clean
+CMakeFiles/2_1_5.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_5.dir/build.make CMakeFiles/2_1_5.dir/clean
+.PHONY : CMakeFiles/2_1_5.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_5.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/2110.dir
+# Target rules for target CMakeFiles/2_1_2.dir
 
 # All Build rule for target.
-CMakeFiles/2110.dir/all:
-	$(MAKE) -f CMakeFiles/2110.dir/build.make CMakeFiles/2110.dir/depend
-	$(MAKE) -f CMakeFiles/2110.dir/build.make CMakeFiles/2110.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target 2110"
-.PHONY : CMakeFiles/2110.dir/all
+CMakeFiles/2_1_2.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_2.dir/build.make CMakeFiles/2_1_2.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_2.dir/build.make CMakeFiles/2_1_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=89,90 "Built target 2_1_2"
+.PHONY : CMakeFiles/2_1_2.dir/all
 
 # Include target in all.
-all: CMakeFiles/2110.dir/all
+all: CMakeFiles/2_1_2.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/2110.dir/rule: cmake_check_build_system
+CMakeFiles/2_1_2.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2110.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2110.dir/rule
+.PHONY : CMakeFiles/2_1_2.dir/rule
 
 # Convenience name for target.
-2110: CMakeFiles/2110.dir/rule
+2_1_2: CMakeFiles/2_1_2.dir/rule
 
-.PHONY : 2110
-
-# clean rule for target.
-CMakeFiles/2110.dir/clean:
-	$(MAKE) -f CMakeFiles/2110.dir/build.make CMakeFiles/2110.dir/clean
-.PHONY : CMakeFiles/2110.dir/clean
+.PHONY : 2_1_2
 
 # clean rule for target.
-clean: CMakeFiles/2110.dir/clean
+CMakeFiles/2_1_2.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_2.dir/build.make CMakeFiles/2_1_2.dir/clean
+.PHONY : CMakeFiles/2_1_2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_2.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/018.dir
+# Target rules for target CMakeFiles/2_1_1.dir
 
 # All Build rule for target.
-CMakeFiles/018.dir/all:
-	$(MAKE) -f CMakeFiles/018.dir/build.make CMakeFiles/018.dir/depend
-	$(MAKE) -f CMakeFiles/018.dir/build.make CMakeFiles/018.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 018"
-.PHONY : CMakeFiles/018.dir/all
+CMakeFiles/2_1_1.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_1.dir/build.make CMakeFiles/2_1_1.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_1.dir/build.make CMakeFiles/2_1_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=86,87 "Built target 2_1_1"
+.PHONY : CMakeFiles/2_1_1.dir/all
 
 # Include target in all.
-all: CMakeFiles/018.dir/all
+all: CMakeFiles/2_1_1.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/018.dir/rule: cmake_check_build_system
+CMakeFiles/2_1_1.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/018.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/018.dir/rule
+.PHONY : CMakeFiles/2_1_1.dir/rule
 
 # Convenience name for target.
-018: CMakeFiles/018.dir/rule
+2_1_1: CMakeFiles/2_1_1.dir/rule
 
-.PHONY : 018
-
-# clean rule for target.
-CMakeFiles/018.dir/clean:
-	$(MAKE) -f CMakeFiles/018.dir/build.make CMakeFiles/018.dir/clean
-.PHONY : CMakeFiles/018.dir/clean
+.PHONY : 2_1_1
 
 # clean rule for target.
-clean: CMakeFiles/018.dir/clean
+CMakeFiles/2_1_1.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_1.dir/build.make CMakeFiles/2_1_1.dir/clean
+.PHONY : CMakeFiles/2_1_1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_1.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/2116.dir
+# Target rules for target CMakeFiles/058.dir
 
 # All Build rule for target.
-CMakeFiles/2116.dir/all:
-	$(MAKE) -f CMakeFiles/2116.dir/build.make CMakeFiles/2116.dir/depend
-	$(MAKE) -f CMakeFiles/2116.dir/build.make CMakeFiles/2116.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target 2116"
-.PHONY : CMakeFiles/2116.dir/all
+CMakeFiles/058.dir/all:
+	$(MAKE) -f CMakeFiles/058.dir/build.make CMakeFiles/058.dir/depend
+	$(MAKE) -f CMakeFiles/058.dir/build.make CMakeFiles/058.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=82 "Built target 058"
+.PHONY : CMakeFiles/058.dir/all
 
 # Include target in all.
-all: CMakeFiles/2116.dir/all
+all: CMakeFiles/058.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/2116.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2116.dir/all
+CMakeFiles/058.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/058.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2116.dir/rule
+.PHONY : CMakeFiles/058.dir/rule
 
 # Convenience name for target.
-2116: CMakeFiles/2116.dir/rule
+058: CMakeFiles/058.dir/rule
 
-.PHONY : 2116
-
-# clean rule for target.
-CMakeFiles/2116.dir/clean:
-	$(MAKE) -f CMakeFiles/2116.dir/build.make CMakeFiles/2116.dir/clean
-.PHONY : CMakeFiles/2116.dir/clean
+.PHONY : 058
 
 # clean rule for target.
-clean: CMakeFiles/2116.dir/clean
+CMakeFiles/058.dir/clean:
+	$(MAKE) -f CMakeFiles/058.dir/build.make CMakeFiles/058.dir/clean
+.PHONY : CMakeFiles/058.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/058.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/218.dir
+# Target rules for target CMakeFiles/057.dir
 
 # All Build rule for target.
-CMakeFiles/218.dir/all:
-	$(MAKE) -f CMakeFiles/218.dir/build.make CMakeFiles/218.dir/depend
-	$(MAKE) -f CMakeFiles/218.dir/build.make CMakeFiles/218.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=91,92 "Built target 218"
-.PHONY : CMakeFiles/218.dir/all
+CMakeFiles/057.dir/all:
+	$(MAKE) -f CMakeFiles/057.dir/build.make CMakeFiles/057.dir/depend
+	$(MAKE) -f CMakeFiles/057.dir/build.make CMakeFiles/057.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=81 "Built target 057"
+.PHONY : CMakeFiles/057.dir/all
 
 # Include target in all.
-all: CMakeFiles/218.dir/all
+all: CMakeFiles/057.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/218.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/218.dir/all
+CMakeFiles/057.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/057.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/218.dir/rule
+.PHONY : CMakeFiles/057.dir/rule
 
 # Convenience name for target.
-218: CMakeFiles/218.dir/rule
+057: CMakeFiles/057.dir/rule
 
-.PHONY : 218
-
-# clean rule for target.
-CMakeFiles/218.dir/clean:
-	$(MAKE) -f CMakeFiles/218.dir/build.make CMakeFiles/218.dir/clean
-.PHONY : CMakeFiles/218.dir/clean
+.PHONY : 057
 
 # clean rule for target.
-clean: CMakeFiles/218.dir/clean
+CMakeFiles/057.dir/clean:
+	$(MAKE) -f CMakeFiles/057.dir/build.make CMakeFiles/057.dir/clean
+.PHONY : CMakeFiles/057.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/057.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/217.dir
+# Target rules for target CMakeFiles/055.dir
 
 # All Build rule for target.
-CMakeFiles/217.dir/all:
-	$(MAKE) -f CMakeFiles/217.dir/build.make CMakeFiles/217.dir/depend
-	$(MAKE) -f CMakeFiles/217.dir/build.make CMakeFiles/217.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=89,90 "Built target 217"
-.PHONY : CMakeFiles/217.dir/all
+CMakeFiles/055.dir/all:
+	$(MAKE) -f CMakeFiles/055.dir/build.make CMakeFiles/055.dir/depend
+	$(MAKE) -f CMakeFiles/055.dir/build.make CMakeFiles/055.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=78 "Built target 055"
+.PHONY : CMakeFiles/055.dir/all
 
 # Include target in all.
-all: CMakeFiles/217.dir/all
+all: CMakeFiles/055.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/217.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/217.dir/all
+CMakeFiles/055.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/055.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/217.dir/rule
+.PHONY : CMakeFiles/055.dir/rule
 
 # Convenience name for target.
-217: CMakeFiles/217.dir/rule
+055: CMakeFiles/055.dir/rule
 
-.PHONY : 217
-
-# clean rule for target.
-CMakeFiles/217.dir/clean:
-	$(MAKE) -f CMakeFiles/217.dir/build.make CMakeFiles/217.dir/clean
-.PHONY : CMakeFiles/217.dir/clean
+.PHONY : 055
 
 # clean rule for target.
-clean: CMakeFiles/217.dir/clean
+CMakeFiles/055.dir/clean:
+	$(MAKE) -f CMakeFiles/055.dir/build.make CMakeFiles/055.dir/clean
+.PHONY : CMakeFiles/055.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/055.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/012.dir
+# Target rules for target CMakeFiles/059.dir
 
 # All Build rule for target.
-CMakeFiles/012.dir/all:
-	$(MAKE) -f CMakeFiles/012.dir/build.make CMakeFiles/012.dir/depend
-	$(MAKE) -f CMakeFiles/012.dir/build.make CMakeFiles/012.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 012"
-.PHONY : CMakeFiles/012.dir/all
+CMakeFiles/059.dir/all:
+	$(MAKE) -f CMakeFiles/059.dir/build.make CMakeFiles/059.dir/depend
+	$(MAKE) -f CMakeFiles/059.dir/build.make CMakeFiles/059.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target 059"
+.PHONY : CMakeFiles/059.dir/all
 
 # Include target in all.
-all: CMakeFiles/012.dir/all
+all: CMakeFiles/059.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/012.dir/rule: cmake_check_build_system
+CMakeFiles/059.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/012.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/059.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/012.dir/rule
+.PHONY : CMakeFiles/059.dir/rule
 
 # Convenience name for target.
-012: CMakeFiles/012.dir/rule
+059: CMakeFiles/059.dir/rule
 
-.PHONY : 012
-
-# clean rule for target.
-CMakeFiles/012.dir/clean:
-	$(MAKE) -f CMakeFiles/012.dir/build.make CMakeFiles/012.dir/clean
-.PHONY : CMakeFiles/012.dir/clean
+.PHONY : 059
 
 # clean rule for target.
-clean: CMakeFiles/012.dir/clean
+CMakeFiles/059.dir/clean:
+	$(MAKE) -f CMakeFiles/059.dir/build.make CMakeFiles/059.dir/clean
+.PHONY : CMakeFiles/059.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/059.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/215.dir
+# Target rules for target CMakeFiles/054.dir
 
 # All Build rule for target.
-CMakeFiles/215.dir/all:
-	$(MAKE) -f CMakeFiles/215.dir/build.make CMakeFiles/215.dir/depend
-	$(MAKE) -f CMakeFiles/215.dir/build.make CMakeFiles/215.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=85,86 "Built target 215"
-.PHONY : CMakeFiles/215.dir/all
+CMakeFiles/054.dir/all:
+	$(MAKE) -f CMakeFiles/054.dir/build.make CMakeFiles/054.dir/depend
+	$(MAKE) -f CMakeFiles/054.dir/build.make CMakeFiles/054.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=76,77 "Built target 054"
+.PHONY : CMakeFiles/054.dir/all
 
 # Include target in all.
-all: CMakeFiles/215.dir/all
+all: CMakeFiles/054.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/215.dir/rule: cmake_check_build_system
+CMakeFiles/054.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/215.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/054.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/215.dir/rule
+.PHONY : CMakeFiles/054.dir/rule
 
 # Convenience name for target.
-215: CMakeFiles/215.dir/rule
+054: CMakeFiles/054.dir/rule
 
-.PHONY : 215
-
-# clean rule for target.
-CMakeFiles/215.dir/clean:
-	$(MAKE) -f CMakeFiles/215.dir/build.make CMakeFiles/215.dir/clean
-.PHONY : CMakeFiles/215.dir/clean
+.PHONY : 054
 
 # clean rule for target.
-clean: CMakeFiles/215.dir/clean
+CMakeFiles/054.dir/clean:
+	$(MAKE) -f CMakeFiles/054.dir/build.make CMakeFiles/054.dir/clean
+.PHONY : CMakeFiles/054.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/054.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/214.dir
+# Target rules for target CMakeFiles/052.dir
 
 # All Build rule for target.
-CMakeFiles/214.dir/all:
-	$(MAKE) -f CMakeFiles/214.dir/build.make CMakeFiles/214.dir/depend
-	$(MAKE) -f CMakeFiles/214.dir/build.make CMakeFiles/214.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target 214"
-.PHONY : CMakeFiles/214.dir/all
+CMakeFiles/052.dir/all:
+	$(MAKE) -f CMakeFiles/052.dir/build.make CMakeFiles/052.dir/depend
+	$(MAKE) -f CMakeFiles/052.dir/build.make CMakeFiles/052.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=73,74 "Built target 052"
+.PHONY : CMakeFiles/052.dir/all
 
 # Include target in all.
-all: CMakeFiles/214.dir/all
+all: CMakeFiles/052.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/214.dir/rule: cmake_check_build_system
+CMakeFiles/052.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/214.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/052.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/214.dir/rule
+.PHONY : CMakeFiles/052.dir/rule
 
 # Convenience name for target.
-214: CMakeFiles/214.dir/rule
+052: CMakeFiles/052.dir/rule
 
-.PHONY : 214
-
-# clean rule for target.
-CMakeFiles/214.dir/clean:
-	$(MAKE) -f CMakeFiles/214.dir/build.make CMakeFiles/214.dir/clean
-.PHONY : CMakeFiles/214.dir/clean
+.PHONY : 052
 
 # clean rule for target.
-clean: CMakeFiles/214.dir/clean
+CMakeFiles/052.dir/clean:
+	$(MAKE) -f CMakeFiles/052.dir/build.make CMakeFiles/052.dir/clean
+.PHONY : CMakeFiles/052.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/052.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/049.dir
+
+# All Build rule for target.
+CMakeFiles/049.dir/all:
+	$(MAKE) -f CMakeFiles/049.dir/build.make CMakeFiles/049.dir/depend
+	$(MAKE) -f CMakeFiles/049.dir/build.make CMakeFiles/049.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target 049"
+.PHONY : CMakeFiles/049.dir/all
+
+# Include target in all.
+all: CMakeFiles/049.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/049.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/049.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/049.dir/rule
+
+# Convenience name for target.
+049: CMakeFiles/049.dir/rule
+
+.PHONY : 049
+
+# clean rule for target.
+CMakeFiles/049.dir/clean:
+	$(MAKE) -f CMakeFiles/049.dir/build.make CMakeFiles/049.dir/clean
+.PHONY : CMakeFiles/049.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/049.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/048.dir
+
+# All Build rule for target.
+CMakeFiles/048.dir/all:
+	$(MAKE) -f CMakeFiles/048.dir/build.make CMakeFiles/048.dir/depend
+	$(MAKE) -f CMakeFiles/048.dir/build.make CMakeFiles/048.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=68 "Built target 048"
+.PHONY : CMakeFiles/048.dir/all
+
+# Include target in all.
+all: CMakeFiles/048.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/048.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/048.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/048.dir/rule
+
+# Convenience name for target.
+048: CMakeFiles/048.dir/rule
+
+.PHONY : 048
+
+# clean rule for target.
+CMakeFiles/048.dir/clean:
+	$(MAKE) -f CMakeFiles/048.dir/build.make CMakeFiles/048.dir/clean
+.PHONY : CMakeFiles/048.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/048.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/036.dir
+
+# All Build rule for target.
+CMakeFiles/036.dir/all:
+	$(MAKE) -f CMakeFiles/036.dir/build.make CMakeFiles/036.dir/depend
+	$(MAKE) -f CMakeFiles/036.dir/build.make CMakeFiles/036.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=51 "Built target 036"
+.PHONY : CMakeFiles/036.dir/all
+
+# Include target in all.
+all: CMakeFiles/036.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/036.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/036.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/036.dir/rule
+
+# Convenience name for target.
+036: CMakeFiles/036.dir/rule
+
+.PHONY : 036
+
+# clean rule for target.
+CMakeFiles/036.dir/clean:
+	$(MAKE) -f CMakeFiles/036.dir/build.make CMakeFiles/036.dir/clean
+.PHONY : CMakeFiles/036.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/036.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/047.dir
+
+# All Build rule for target.
+CMakeFiles/047.dir/all:
+	$(MAKE) -f CMakeFiles/047.dir/build.make CMakeFiles/047.dir/depend
+	$(MAKE) -f CMakeFiles/047.dir/build.make CMakeFiles/047.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=66,67 "Built target 047"
+.PHONY : CMakeFiles/047.dir/all
+
+# Include target in all.
+all: CMakeFiles/047.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/047.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/047.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/047.dir/rule
+
+# Convenience name for target.
+047: CMakeFiles/047.dir/rule
+
+.PHONY : 047
+
+# clean rule for target.
+CMakeFiles/047.dir/clean:
+	$(MAKE) -f CMakeFiles/047.dir/build.make CMakeFiles/047.dir/clean
+.PHONY : CMakeFiles/047.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/047.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/044.dir
+
+# All Build rule for target.
+CMakeFiles/044.dir/all:
+	$(MAKE) -f CMakeFiles/044.dir/build.make CMakeFiles/044.dir/depend
+	$(MAKE) -f CMakeFiles/044.dir/build.make CMakeFiles/044.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=62 "Built target 044"
+.PHONY : CMakeFiles/044.dir/all
+
+# Include target in all.
+all: CMakeFiles/044.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/044.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/044.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/044.dir/rule
+
+# Convenience name for target.
+044: CMakeFiles/044.dir/rule
+
+.PHONY : 044
+
+# clean rule for target.
+CMakeFiles/044.dir/clean:
+	$(MAKE) -f CMakeFiles/044.dir/build.make CMakeFiles/044.dir/clean
+.PHONY : CMakeFiles/044.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/044.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/042.dir
+
+# All Build rule for target.
+CMakeFiles/042.dir/all:
+	$(MAKE) -f CMakeFiles/042.dir/build.make CMakeFiles/042.dir/depend
+	$(MAKE) -f CMakeFiles/042.dir/build.make CMakeFiles/042.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target 042"
+.PHONY : CMakeFiles/042.dir/all
+
+# Include target in all.
+all: CMakeFiles/042.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/042.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/042.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/042.dir/rule
+
+# Convenience name for target.
+042: CMakeFiles/042.dir/rule
+
+.PHONY : 042
+
+# clean rule for target.
+CMakeFiles/042.dir/clean:
+	$(MAKE) -f CMakeFiles/042.dir/build.make CMakeFiles/042.dir/clean
+.PHONY : CMakeFiles/042.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/042.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/040.dir
+
+# All Build rule for target.
+CMakeFiles/040.dir/all:
+	$(MAKE) -f CMakeFiles/040.dir/build.make CMakeFiles/040.dir/depend
+	$(MAKE) -f CMakeFiles/040.dir/build.make CMakeFiles/040.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=56,57 "Built target 040"
+.PHONY : CMakeFiles/040.dir/all
+
+# Include target in all.
+all: CMakeFiles/040.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/040.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/040.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/040.dir/rule
+
+# Convenience name for target.
+040: CMakeFiles/040.dir/rule
+
+.PHONY : 040
+
+# clean rule for target.
+CMakeFiles/040.dir/clean:
+	$(MAKE) -f CMakeFiles/040.dir/build.make CMakeFiles/040.dir/clean
+.PHONY : CMakeFiles/040.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/040.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/2_1_10.dir
+
+# All Build rule for target.
+CMakeFiles/2_1_10.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_10.dir/build.make CMakeFiles/2_1_10.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_10.dir/build.make CMakeFiles/2_1_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=88 "Built target 2_1_10"
+.PHONY : CMakeFiles/2_1_10.dir/all
+
+# Include target in all.
+all: CMakeFiles/2_1_10.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2_1_10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/2_1_10.dir/rule
+
+# Convenience name for target.
+2_1_10: CMakeFiles/2_1_10.dir/rule
+
+.PHONY : 2_1_10
+
+# clean rule for target.
+CMakeFiles/2_1_10.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_10.dir/build.make CMakeFiles/2_1_10.dir/clean
+.PHONY : CMakeFiles/2_1_10.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_10.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/039.dir
+
+# All Build rule for target.
+CMakeFiles/039.dir/all:
+	$(MAKE) -f CMakeFiles/039.dir/build.make CMakeFiles/039.dir/depend
+	$(MAKE) -f CMakeFiles/039.dir/build.make CMakeFiles/039.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=55 "Built target 039"
+.PHONY : CMakeFiles/039.dir/all
+
+# Include target in all.
+all: CMakeFiles/039.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/039.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/039.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/039.dir/rule
+
+# Convenience name for target.
+039: CMakeFiles/039.dir/rule
+
+.PHONY : 039
+
+# clean rule for target.
+CMakeFiles/039.dir/clean:
+	$(MAKE) -f CMakeFiles/039.dir/build.make CMakeFiles/039.dir/clean
+.PHONY : CMakeFiles/039.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/039.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/041.dir
+
+# All Build rule for target.
+CMakeFiles/041.dir/all:
+	$(MAKE) -f CMakeFiles/041.dir/build.make CMakeFiles/041.dir/depend
+	$(MAKE) -f CMakeFiles/041.dir/build.make CMakeFiles/041.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=58 "Built target 041"
+.PHONY : CMakeFiles/041.dir/all
+
+# Include target in all.
+all: CMakeFiles/041.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/041.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/041.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/041.dir/rule
+
+# Convenience name for target.
+041: CMakeFiles/041.dir/rule
+
+.PHONY : 041
+
+# clean rule for target.
+CMakeFiles/041.dir/clean:
+	$(MAKE) -f CMakeFiles/041.dir/build.make CMakeFiles/041.dir/clean
+.PHONY : CMakeFiles/041.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/041.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/037.dir
+
+# All Build rule for target.
+CMakeFiles/037.dir/all:
+	$(MAKE) -f CMakeFiles/037.dir/build.make CMakeFiles/037.dir/depend
+	$(MAKE) -f CMakeFiles/037.dir/build.make CMakeFiles/037.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=52 "Built target 037"
+.PHONY : CMakeFiles/037.dir/all
+
+# Include target in all.
+all: CMakeFiles/037.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/037.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/037.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/037.dir/rule
+
+# Convenience name for target.
+037: CMakeFiles/037.dir/rule
+
+.PHONY : 037
+
+# clean rule for target.
+CMakeFiles/037.dir/clean:
+	$(MAKE) -f CMakeFiles/037.dir/build.make CMakeFiles/037.dir/clean
+.PHONY : CMakeFiles/037.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/037.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/043.dir
+
+# All Build rule for target.
+CMakeFiles/043.dir/all:
+	$(MAKE) -f CMakeFiles/043.dir/build.make CMakeFiles/043.dir/depend
+	$(MAKE) -f CMakeFiles/043.dir/build.make CMakeFiles/043.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=61 "Built target 043"
+.PHONY : CMakeFiles/043.dir/all
+
+# Include target in all.
+all: CMakeFiles/043.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/043.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/043.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/043.dir/rule
+
+# Convenience name for target.
+043: CMakeFiles/043.dir/rule
+
+.PHONY : 043
+
+# clean rule for target.
+CMakeFiles/043.dir/clean:
+	$(MAKE) -f CMakeFiles/043.dir/build.make CMakeFiles/043.dir/clean
+.PHONY : CMakeFiles/043.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/043.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/035.dir
+
+# All Build rule for target.
+CMakeFiles/035.dir/all:
+	$(MAKE) -f CMakeFiles/035.dir/build.make CMakeFiles/035.dir/depend
+	$(MAKE) -f CMakeFiles/035.dir/build.make CMakeFiles/035.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target 035"
+.PHONY : CMakeFiles/035.dir/all
+
+# Include target in all.
+all: CMakeFiles/035.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/035.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/035.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/035.dir/rule
+
+# Convenience name for target.
+035: CMakeFiles/035.dir/rule
+
+.PHONY : 035
+
+# clean rule for target.
+CMakeFiles/035.dir/clean:
+	$(MAKE) -f CMakeFiles/035.dir/build.make CMakeFiles/035.dir/clean
+.PHONY : CMakeFiles/035.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/035.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/053.dir
+
+# All Build rule for target.
+CMakeFiles/053.dir/all:
+	$(MAKE) -f CMakeFiles/053.dir/build.make CMakeFiles/053.dir/depend
+	$(MAKE) -f CMakeFiles/053.dir/build.make CMakeFiles/053.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=75 "Built target 053"
+.PHONY : CMakeFiles/053.dir/all
+
+# Include target in all.
+all: CMakeFiles/053.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/053.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/053.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/053.dir/rule
+
+# Convenience name for target.
+053: CMakeFiles/053.dir/rule
+
+.PHONY : 053
+
+# clean rule for target.
+CMakeFiles/053.dir/clean:
+	$(MAKE) -f CMakeFiles/053.dir/build.make CMakeFiles/053.dir/clean
+.PHONY : CMakeFiles/053.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/053.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/033.dir
+
+# All Build rule for target.
+CMakeFiles/033.dir/all:
+	$(MAKE) -f CMakeFiles/033.dir/build.make CMakeFiles/033.dir/depend
+	$(MAKE) -f CMakeFiles/033.dir/build.make CMakeFiles/033.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=46,47 "Built target 033"
+.PHONY : CMakeFiles/033.dir/all
+
+# Include target in all.
+all: CMakeFiles/033.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/033.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/033.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/033.dir/rule
+
+# Convenience name for target.
+033: CMakeFiles/033.dir/rule
+
+.PHONY : 033
+
+# clean rule for target.
+CMakeFiles/033.dir/clean:
+	$(MAKE) -f CMakeFiles/033.dir/build.make CMakeFiles/033.dir/clean
+.PHONY : CMakeFiles/033.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/033.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/032.dir
+
+# All Build rule for target.
+CMakeFiles/032.dir/all:
+	$(MAKE) -f CMakeFiles/032.dir/build.make CMakeFiles/032.dir/depend
+	$(MAKE) -f CMakeFiles/032.dir/build.make CMakeFiles/032.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 032"
+.PHONY : CMakeFiles/032.dir/all
+
+# Include target in all.
+all: CMakeFiles/032.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/032.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/032.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/032.dir/rule
+
+# Convenience name for target.
+032: CMakeFiles/032.dir/rule
+
+.PHONY : 032
+
+# clean rule for target.
+CMakeFiles/032.dir/clean:
+	$(MAKE) -f CMakeFiles/032.dir/build.make CMakeFiles/032.dir/clean
+.PHONY : CMakeFiles/032.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/032.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/060.dir
+
+# All Build rule for target.
+CMakeFiles/060.dir/all:
+	$(MAKE) -f CMakeFiles/060.dir/build.make CMakeFiles/060.dir/depend
+	$(MAKE) -f CMakeFiles/060.dir/build.make CMakeFiles/060.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=85 "Built target 060"
+.PHONY : CMakeFiles/060.dir/all
+
+# Include target in all.
+all: CMakeFiles/060.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/060.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/060.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/060.dir/rule
+
+# Convenience name for target.
+060: CMakeFiles/060.dir/rule
+
+.PHONY : 060
+
+# clean rule for target.
+CMakeFiles/060.dir/clean:
+	$(MAKE) -f CMakeFiles/060.dir/build.make CMakeFiles/060.dir/clean
+.PHONY : CMakeFiles/060.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/060.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/056.dir
+
+# All Build rule for target.
+CMakeFiles/056.dir/all:
+	$(MAKE) -f CMakeFiles/056.dir/build.make CMakeFiles/056.dir/depend
+	$(MAKE) -f CMakeFiles/056.dir/build.make CMakeFiles/056.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target 056"
+.PHONY : CMakeFiles/056.dir/all
+
+# Include target in all.
+all: CMakeFiles/056.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/056.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/056.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/056.dir/rule
+
+# Convenience name for target.
+056: CMakeFiles/056.dir/rule
+
+.PHONY : 056
+
+# clean rule for target.
+CMakeFiles/056.dir/clean:
+	$(MAKE) -f CMakeFiles/056.dir/build.make CMakeFiles/056.dir/clean
+.PHONY : CMakeFiles/056.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/056.dir/clean
 
 .PHONY : clean
 
@@ -473,7 +1139,7 @@ clean: CMakeFiles/214.dir/clean
 CMakeFiles/006.dir/all:
 	$(MAKE) -f CMakeFiles/006.dir/build.make CMakeFiles/006.dir/depend
 	$(MAKE) -f CMakeFiles/006.dir/build.make CMakeFiles/006.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 006"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=8 "Built target 006"
 .PHONY : CMakeFiles/006.dir/all
 
 # Include target in all.
@@ -483,7 +1149,7 @@ all: CMakeFiles/006.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/006.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/006.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/006.dir/rule
@@ -510,7 +1176,7 @@ clean: CMakeFiles/006.dir/clean
 CMakeFiles/015.dir/all:
 	$(MAKE) -f CMakeFiles/015.dir/build.make CMakeFiles/015.dir/depend
 	$(MAKE) -f CMakeFiles/015.dir/build.make CMakeFiles/015.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 015"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=21 "Built target 015"
 .PHONY : CMakeFiles/015.dir/all
 
 # Include target in all.
@@ -520,7 +1186,7 @@ all: CMakeFiles/015.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/015.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/015.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/015.dir/rule
@@ -547,7 +1213,7 @@ clean: CMakeFiles/015.dir/clean
 CMakeFiles/027.dir/all:
 	$(MAKE) -f CMakeFiles/027.dir/build.make CMakeFiles/027.dir/depend
 	$(MAKE) -f CMakeFiles/027.dir/build.make CMakeFiles/027.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target 027"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=38 "Built target 027"
 .PHONY : CMakeFiles/027.dir/all
 
 # Include target in all.
@@ -557,7 +1223,7 @@ all: CMakeFiles/027.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/027.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/027.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/027.dir/rule
@@ -578,50 +1244,13 @@ clean: CMakeFiles/027.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/216.dir
-
-# All Build rule for target.
-CMakeFiles/216.dir/all:
-	$(MAKE) -f CMakeFiles/216.dir/build.make CMakeFiles/216.dir/depend
-	$(MAKE) -f CMakeFiles/216.dir/build.make CMakeFiles/216.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=87,88 "Built target 216"
-.PHONY : CMakeFiles/216.dir/all
-
-# Include target in all.
-all: CMakeFiles/216.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/216.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/216.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/216.dir/rule
-
-# Convenience name for target.
-216: CMakeFiles/216.dir/rule
-
-.PHONY : 216
-
-# clean rule for target.
-CMakeFiles/216.dir/clean:
-	$(MAKE) -f CMakeFiles/216.dir/build.make CMakeFiles/216.dir/clean
-.PHONY : CMakeFiles/216.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/216.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/026.dir
 
 # All Build rule for target.
 CMakeFiles/026.dir/all:
 	$(MAKE) -f CMakeFiles/026.dir/build.make CMakeFiles/026.dir/depend
 	$(MAKE) -f CMakeFiles/026.dir/build.make CMakeFiles/026.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target 026"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=36,37 "Built target 026"
 .PHONY : CMakeFiles/026.dir/all
 
 # Include target in all.
@@ -652,50 +1281,13 @@ clean: CMakeFiles/026.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/2111.dir
-
-# All Build rule for target.
-CMakeFiles/2111.dir/all:
-	$(MAKE) -f CMakeFiles/2111.dir/build.make CMakeFiles/2111.dir/depend
-	$(MAKE) -f CMakeFiles/2111.dir/build.make CMakeFiles/2111.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=67,68 "Built target 2111"
-.PHONY : CMakeFiles/2111.dir/all
-
-# Include target in all.
-all: CMakeFiles/2111.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/2111.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2111.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2111.dir/rule
-
-# Convenience name for target.
-2111: CMakeFiles/2111.dir/rule
-
-.PHONY : 2111
-
-# clean rule for target.
-CMakeFiles/2111.dir/clean:
-	$(MAKE) -f CMakeFiles/2111.dir/build.make CMakeFiles/2111.dir/clean
-.PHONY : CMakeFiles/2111.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/2111.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/024.dir
 
 # All Build rule for target.
 CMakeFiles/024.dir/all:
 	$(MAKE) -f CMakeFiles/024.dir/build.make CMakeFiles/024.dir/depend
 	$(MAKE) -f CMakeFiles/024.dir/build.make CMakeFiles/024.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target 024"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 024"
 .PHONY : CMakeFiles/024.dir/all
 
 # Include target in all.
@@ -732,7 +1324,7 @@ clean: CMakeFiles/024.dir/clean
 CMakeFiles/002.dir/all:
 	$(MAKE) -f CMakeFiles/002.dir/build.make CMakeFiles/002.dir/depend
 	$(MAKE) -f CMakeFiles/002.dir/build.make CMakeFiles/002.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 002"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=2 "Built target 002"
 .PHONY : CMakeFiles/002.dir/all
 
 # Include target in all.
@@ -742,7 +1334,7 @@ all: CMakeFiles/002.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/002.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/002.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/002.dir/rule
@@ -769,7 +1361,7 @@ clean: CMakeFiles/002.dir/clean
 CMakeFiles/028.dir/all:
 	$(MAKE) -f CMakeFiles/028.dir/build.make CMakeFiles/028.dir/depend
 	$(MAKE) -f CMakeFiles/028.dir/build.make CMakeFiles/028.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target 028"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target 028"
 .PHONY : CMakeFiles/028.dir/all
 
 # Include target in all.
@@ -800,13 +1392,50 @@ clean: CMakeFiles/028.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/2_1_3.dir
+
+# All Build rule for target.
+CMakeFiles/2_1_3.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_3.dir/build.make CMakeFiles/2_1_3.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_3.dir/build.make CMakeFiles/2_1_3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=91 "Built target 2_1_3"
+.PHONY : CMakeFiles/2_1_3.dir/all
+
+# Include target in all.
+all: CMakeFiles/2_1_3.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2_1_3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/2_1_3.dir/rule
+
+# Convenience name for target.
+2_1_3: CMakeFiles/2_1_3.dir/rule
+
+.PHONY : 2_1_3
+
+# clean rule for target.
+CMakeFiles/2_1_3.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_3.dir/build.make CMakeFiles/2_1_3.dir/clean
+.PHONY : CMakeFiles/2_1_3.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_3.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/022.dir
 
 # All Build rule for target.
 CMakeFiles/022.dir/all:
 	$(MAKE) -f CMakeFiles/022.dir/build.make CMakeFiles/022.dir/depend
 	$(MAKE) -f CMakeFiles/022.dir/build.make CMakeFiles/022.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 022"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=31 "Built target 022"
 .PHONY : CMakeFiles/022.dir/all
 
 # Include target in all.
@@ -816,7 +1445,7 @@ all: CMakeFiles/022.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/022.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/022.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/022.dir/rule
@@ -837,13 +1466,87 @@ clean: CMakeFiles/022.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/010.dir
+
+# All Build rule for target.
+CMakeFiles/010.dir/all:
+	$(MAKE) -f CMakeFiles/010.dir/build.make CMakeFiles/010.dir/depend
+	$(MAKE) -f CMakeFiles/010.dir/build.make CMakeFiles/010.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 010"
+.PHONY : CMakeFiles/010.dir/all
+
+# Include target in all.
+all: CMakeFiles/010.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/010.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/010.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/010.dir/rule
+
+# Convenience name for target.
+010: CMakeFiles/010.dir/rule
+
+.PHONY : 010
+
+# clean rule for target.
+CMakeFiles/010.dir/clean:
+	$(MAKE) -f CMakeFiles/010.dir/build.make CMakeFiles/010.dir/clean
+.PHONY : CMakeFiles/010.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/010.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/046.dir
+
+# All Build rule for target.
+CMakeFiles/046.dir/all:
+	$(MAKE) -f CMakeFiles/046.dir/build.make CMakeFiles/046.dir/depend
+	$(MAKE) -f CMakeFiles/046.dir/build.make CMakeFiles/046.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=65 "Built target 046"
+.PHONY : CMakeFiles/046.dir/all
+
+# Include target in all.
+all: CMakeFiles/046.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/046.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/046.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/046.dir/rule
+
+# Convenience name for target.
+046: CMakeFiles/046.dir/rule
+
+.PHONY : 046
+
+# clean rule for target.
+CMakeFiles/046.dir/clean:
+	$(MAKE) -f CMakeFiles/046.dir/build.make CMakeFiles/046.dir/clean
+.PHONY : CMakeFiles/046.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/046.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/025.dir
 
 # All Build rule for target.
 CMakeFiles/025.dir/all:
 	$(MAKE) -f CMakeFiles/025.dir/build.make CMakeFiles/025.dir/depend
 	$(MAKE) -f CMakeFiles/025.dir/build.make CMakeFiles/025.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target 025"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=35 "Built target 025"
 .PHONY : CMakeFiles/025.dir/all
 
 # Include target in all.
@@ -853,7 +1556,7 @@ all: CMakeFiles/025.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/025.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/025.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/025.dir/rule
@@ -880,7 +1583,7 @@ clean: CMakeFiles/025.dir/clean
 CMakeFiles/008.dir/all:
 	$(MAKE) -f CMakeFiles/008.dir/build.make CMakeFiles/008.dir/depend
 	$(MAKE) -f CMakeFiles/008.dir/build.make CMakeFiles/008.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 008"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=11 "Built target 008"
 .PHONY : CMakeFiles/008.dir/all
 
 # Include target in all.
@@ -890,7 +1593,7 @@ all: CMakeFiles/008.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/008.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/008.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/008.dir/rule
@@ -917,7 +1620,7 @@ clean: CMakeFiles/008.dir/clean
 CMakeFiles/021.dir/all:
 	$(MAKE) -f CMakeFiles/021.dir/build.make CMakeFiles/021.dir/depend
 	$(MAKE) -f CMakeFiles/021.dir/build.make CMakeFiles/021.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 021"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 021"
 .PHONY : CMakeFiles/021.dir/all
 
 # Include target in all.
@@ -948,39 +1651,113 @@ clean: CMakeFiles/021.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/213.dir
+# Target rules for target CMakeFiles/2_1_6.dir
 
 # All Build rule for target.
-CMakeFiles/213.dir/all:
-	$(MAKE) -f CMakeFiles/213.dir/build.make CMakeFiles/213.dir/depend
-	$(MAKE) -f CMakeFiles/213.dir/build.make CMakeFiles/213.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target 213"
-.PHONY : CMakeFiles/213.dir/all
+CMakeFiles/2_1_6.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_6.dir/build.make CMakeFiles/2_1_6.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_6.dir/build.make CMakeFiles/2_1_6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=95 "Built target 2_1_6"
+.PHONY : CMakeFiles/2_1_6.dir/all
 
 # Include target in all.
-all: CMakeFiles/213.dir/all
+all: CMakeFiles/2_1_6.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/213.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/213.dir/all
+CMakeFiles/2_1_6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/213.dir/rule
+.PHONY : CMakeFiles/2_1_6.dir/rule
 
 # Convenience name for target.
-213: CMakeFiles/213.dir/rule
+2_1_6: CMakeFiles/2_1_6.dir/rule
 
-.PHONY : 213
-
-# clean rule for target.
-CMakeFiles/213.dir/clean:
-	$(MAKE) -f CMakeFiles/213.dir/build.make CMakeFiles/213.dir/clean
-.PHONY : CMakeFiles/213.dir/clean
+.PHONY : 2_1_6
 
 # clean rule for target.
-clean: CMakeFiles/213.dir/clean
+CMakeFiles/2_1_6.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_6.dir/build.make CMakeFiles/2_1_6.dir/clean
+.PHONY : CMakeFiles/2_1_6.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_6.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/2_1_4.dir
+
+# All Build rule for target.
+CMakeFiles/2_1_4.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_4.dir/build.make CMakeFiles/2_1_4.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_4.dir/build.make CMakeFiles/2_1_4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=92 "Built target 2_1_4"
+.PHONY : CMakeFiles/2_1_4.dir/all
+
+# Include target in all.
+all: CMakeFiles/2_1_4.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2_1_4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/2_1_4.dir/rule
+
+# Convenience name for target.
+2_1_4: CMakeFiles/2_1_4.dir/rule
+
+.PHONY : 2_1_4
+
+# clean rule for target.
+CMakeFiles/2_1_4.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_4.dir/build.make CMakeFiles/2_1_4.dir/clean
+.PHONY : CMakeFiles/2_1_4.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_4.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/050.dir
+
+# All Build rule for target.
+CMakeFiles/050.dir/all:
+	$(MAKE) -f CMakeFiles/050.dir/build.make CMakeFiles/050.dir/depend
+	$(MAKE) -f CMakeFiles/050.dir/build.make CMakeFiles/050.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=71 "Built target 050"
+.PHONY : CMakeFiles/050.dir/all
+
+# Include target in all.
+all: CMakeFiles/050.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/050.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/050.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/050.dir/rule
+
+# Convenience name for target.
+050: CMakeFiles/050.dir/rule
+
+.PHONY : 050
+
+# clean rule for target.
+CMakeFiles/050.dir/clean:
+	$(MAKE) -f CMakeFiles/050.dir/build.make CMakeFiles/050.dir/clean
+.PHONY : CMakeFiles/050.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/050.dir/clean
 
 .PHONY : clean
 
@@ -991,7 +1768,7 @@ clean: CMakeFiles/213.dir/clean
 CMakeFiles/020.dir/all:
 	$(MAKE) -f CMakeFiles/020.dir/build.make CMakeFiles/020.dir/depend
 	$(MAKE) -f CMakeFiles/020.dir/build.make CMakeFiles/020.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target 020"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=28 "Built target 020"
 .PHONY : CMakeFiles/020.dir/all
 
 # Include target in all.
@@ -1001,7 +1778,7 @@ all: CMakeFiles/020.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/020.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/020.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/020.dir/rule
@@ -1022,87 +1799,13 @@ clean: CMakeFiles/020.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/1515.dir
-
-# All Build rule for target.
-CMakeFiles/1515.dir/all:
-	$(MAKE) -f CMakeFiles/1515.dir/build.make CMakeFiles/1515.dir/depend
-	$(MAKE) -f CMakeFiles/1515.dir/build.make CMakeFiles/1515.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target 1515"
-.PHONY : CMakeFiles/1515.dir/all
-
-# Include target in all.
-all: CMakeFiles/1515.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/1515.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1515.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/1515.dir/rule
-
-# Convenience name for target.
-1515: CMakeFiles/1515.dir/rule
-
-.PHONY : 1515
-
-# clean rule for target.
-CMakeFiles/1515.dir/clean:
-	$(MAKE) -f CMakeFiles/1515.dir/build.make CMakeFiles/1515.dir/clean
-.PHONY : CMakeFiles/1515.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/1515.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/211.dir
-
-# All Build rule for target.
-CMakeFiles/211.dir/all:
-	$(MAKE) -f CMakeFiles/211.dir/build.make CMakeFiles/211.dir/depend
-	$(MAKE) -f CMakeFiles/211.dir/build.make CMakeFiles/211.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target 211"
-.PHONY : CMakeFiles/211.dir/all
-
-# Include target in all.
-all: CMakeFiles/211.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/211.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/211.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/211.dir/rule
-
-# Convenience name for target.
-211: CMakeFiles/211.dir/rule
-
-.PHONY : 211
-
-# clean rule for target.
-CMakeFiles/211.dir/clean:
-	$(MAKE) -f CMakeFiles/211.dir/build.make CMakeFiles/211.dir/clean
-.PHONY : CMakeFiles/211.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/211.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/019.dir
 
 # All Build rule for target.
 CMakeFiles/019.dir/all:
 	$(MAKE) -f CMakeFiles/019.dir/build.make CMakeFiles/019.dir/depend
 	$(MAKE) -f CMakeFiles/019.dir/build.make CMakeFiles/019.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target 019"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=26,27 "Built target 019"
 .PHONY : CMakeFiles/019.dir/all
 
 # Include target in all.
@@ -1139,7 +1842,7 @@ clean: CMakeFiles/019.dir/clean
 CMakeFiles/029.dir/all:
 	$(MAKE) -f CMakeFiles/029.dir/build.make CMakeFiles/029.dir/depend
 	$(MAKE) -f CMakeFiles/029.dir/build.make CMakeFiles/029.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target 029"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=41 "Built target 029"
 .PHONY : CMakeFiles/029.dir/all
 
 # Include target in all.
@@ -1149,7 +1852,7 @@ all: CMakeFiles/029.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/029.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/029.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/029.dir/rule
@@ -1176,7 +1879,7 @@ clean: CMakeFiles/029.dir/clean
 CMakeFiles/007.dir/all:
 	$(MAKE) -f CMakeFiles/007.dir/build.make CMakeFiles/007.dir/depend
 	$(MAKE) -f CMakeFiles/007.dir/build.make CMakeFiles/007.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 007"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 007"
 .PHONY : CMakeFiles/007.dir/all
 
 # Include target in all.
@@ -1213,7 +1916,7 @@ clean: CMakeFiles/007.dir/clean
 CMakeFiles/001.dir/all:
 	$(MAKE) -f CMakeFiles/001.dir/build.make CMakeFiles/001.dir/depend
 	$(MAKE) -f CMakeFiles/001.dir/build.make CMakeFiles/001.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 001"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=1 "Built target 001"
 .PHONY : CMakeFiles/001.dir/all
 
 # Include target in all.
@@ -1223,7 +1926,7 @@ all: CMakeFiles/001.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/001.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/001.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/001.dir/rule
@@ -1250,7 +1953,7 @@ clean: CMakeFiles/001.dir/clean
 CMakeFiles/023.dir/all:
 	$(MAKE) -f CMakeFiles/023.dir/build.make CMakeFiles/023.dir/depend
 	$(MAKE) -f CMakeFiles/023.dir/build.make CMakeFiles/023.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target 023"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=32 "Built target 023"
 .PHONY : CMakeFiles/023.dir/all
 
 # Include target in all.
@@ -1260,7 +1963,7 @@ all: CMakeFiles/023.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/023.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/023.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/023.dir/rule
@@ -1281,87 +1984,13 @@ clean: CMakeFiles/023.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/2114.dir
-
-# All Build rule for target.
-CMakeFiles/2114.dir/all:
-	$(MAKE) -f CMakeFiles/2114.dir/build.make CMakeFiles/2114.dir/depend
-	$(MAKE) -f CMakeFiles/2114.dir/build.make CMakeFiles/2114.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=73,74 "Built target 2114"
-.PHONY : CMakeFiles/2114.dir/all
-
-# Include target in all.
-all: CMakeFiles/2114.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/2114.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2114.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2114.dir/rule
-
-# Convenience name for target.
-2114: CMakeFiles/2114.dir/rule
-
-.PHONY : 2114
-
-# clean rule for target.
-CMakeFiles/2114.dir/clean:
-	$(MAKE) -f CMakeFiles/2114.dir/build.make CMakeFiles/2114.dir/clean
-.PHONY : CMakeFiles/2114.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/2114.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/2112.dir
-
-# All Build rule for target.
-CMakeFiles/2112.dir/all:
-	$(MAKE) -f CMakeFiles/2112.dir/build.make CMakeFiles/2112.dir/depend
-	$(MAKE) -f CMakeFiles/2112.dir/build.make CMakeFiles/2112.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target 2112"
-.PHONY : CMakeFiles/2112.dir/all
-
-# Include target in all.
-all: CMakeFiles/2112.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/2112.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2112.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2112.dir/rule
-
-# Convenience name for target.
-2112: CMakeFiles/2112.dir/rule
-
-.PHONY : 2112
-
-# clean rule for target.
-CMakeFiles/2112.dir/clean:
-	$(MAKE) -f CMakeFiles/2112.dir/build.make CMakeFiles/2112.dir/clean
-.PHONY : CMakeFiles/2112.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/2112.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/003.dir
 
 # All Build rule for target.
 CMakeFiles/003.dir/all:
 	$(MAKE) -f CMakeFiles/003.dir/build.make CMakeFiles/003.dir/depend
 	$(MAKE) -f CMakeFiles/003.dir/build.make CMakeFiles/003.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 003"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 003"
 .PHONY : CMakeFiles/003.dir/all
 
 # Include target in all.
@@ -1398,7 +2027,7 @@ clean: CMakeFiles/003.dir/clean
 CMakeFiles/030.dir/all:
 	$(MAKE) -f CMakeFiles/030.dir/build.make CMakeFiles/030.dir/depend
 	$(MAKE) -f CMakeFiles/030.dir/build.make CMakeFiles/030.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target 030"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=42 "Built target 030"
 .PHONY : CMakeFiles/030.dir/all
 
 # Include target in all.
@@ -1408,7 +2037,7 @@ all: CMakeFiles/030.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/030.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/030.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/030.dir/rule
@@ -1435,7 +2064,7 @@ clean: CMakeFiles/030.dir/clean
 CMakeFiles/014.dir/all:
 	$(MAKE) -f CMakeFiles/014.dir/build.make CMakeFiles/014.dir/depend
 	$(MAKE) -f CMakeFiles/014.dir/build.make CMakeFiles/014.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 014"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 014"
 .PHONY : CMakeFiles/014.dir/all
 
 # Include target in all.
@@ -1466,13 +2095,87 @@ clean: CMakeFiles/014.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/034.dir
+
+# All Build rule for target.
+CMakeFiles/034.dir/all:
+	$(MAKE) -f CMakeFiles/034.dir/build.make CMakeFiles/034.dir/depend
+	$(MAKE) -f CMakeFiles/034.dir/build.make CMakeFiles/034.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=48 "Built target 034"
+.PHONY : CMakeFiles/034.dir/all
+
+# Include target in all.
+all: CMakeFiles/034.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/034.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/034.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/034.dir/rule
+
+# Convenience name for target.
+034: CMakeFiles/034.dir/rule
+
+.PHONY : 034
+
+# clean rule for target.
+CMakeFiles/034.dir/clean:
+	$(MAKE) -f CMakeFiles/034.dir/build.make CMakeFiles/034.dir/clean
+.PHONY : CMakeFiles/034.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/034.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/2_1_7.dir
+
+# All Build rule for target.
+CMakeFiles/2_1_7.dir/all:
+	$(MAKE) -f CMakeFiles/2_1_7.dir/build.make CMakeFiles/2_1_7.dir/depend
+	$(MAKE) -f CMakeFiles/2_1_7.dir/build.make CMakeFiles/2_1_7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=96,97 "Built target 2_1_7"
+.PHONY : CMakeFiles/2_1_7.dir/all
+
+# Include target in all.
+all: CMakeFiles/2_1_7.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2_1_7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2_1_7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/2_1_7.dir/rule
+
+# Convenience name for target.
+2_1_7: CMakeFiles/2_1_7.dir/rule
+
+.PHONY : 2_1_7
+
+# clean rule for target.
+CMakeFiles/2_1_7.dir/clean:
+	$(MAKE) -f CMakeFiles/2_1_7.dir/build.make CMakeFiles/2_1_7.dir/clean
+.PHONY : CMakeFiles/2_1_7.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2_1_7.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/016.dir
 
 # All Build rule for target.
 CMakeFiles/016.dir/all:
 	$(MAKE) -f CMakeFiles/016.dir/build.make CMakeFiles/016.dir/depend
 	$(MAKE) -f CMakeFiles/016.dir/build.make CMakeFiles/016.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target 016"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=22 "Built target 016"
 .PHONY : CMakeFiles/016.dir/all
 
 # Include target in all.
@@ -1482,7 +2185,7 @@ all: CMakeFiles/016.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/016.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/016.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/016.dir/rule
@@ -1509,7 +2212,7 @@ clean: CMakeFiles/016.dir/clean
 CMakeFiles/009.dir/all:
 	$(MAKE) -f CMakeFiles/009.dir/build.make CMakeFiles/009.dir/depend
 	$(MAKE) -f CMakeFiles/009.dir/build.make CMakeFiles/009.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 009"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=12 "Built target 009"
 .PHONY : CMakeFiles/009.dir/all
 
 # Include target in all.
@@ -1519,7 +2222,7 @@ all: CMakeFiles/009.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/009.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/009.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/009.dir/rule
@@ -1540,13 +2243,50 @@ clean: CMakeFiles/009.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/051.dir
+
+# All Build rule for target.
+CMakeFiles/051.dir/all:
+	$(MAKE) -f CMakeFiles/051.dir/build.make CMakeFiles/051.dir/depend
+	$(MAKE) -f CMakeFiles/051.dir/build.make CMakeFiles/051.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=72 "Built target 051"
+.PHONY : CMakeFiles/051.dir/all
+
+# Include target in all.
+all: CMakeFiles/051.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/051.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/051.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/051.dir/rule
+
+# Convenience name for target.
+051: CMakeFiles/051.dir/rule
+
+.PHONY : 051
+
+# clean rule for target.
+CMakeFiles/051.dir/clean:
+	$(MAKE) -f CMakeFiles/051.dir/build.make CMakeFiles/051.dir/clean
+.PHONY : CMakeFiles/051.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/051.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/013.dir
 
 # All Build rule for target.
 CMakeFiles/013.dir/all:
 	$(MAKE) -f CMakeFiles/013.dir/build.make CMakeFiles/013.dir/depend
 	$(MAKE) -f CMakeFiles/013.dir/build.make CMakeFiles/013.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 013"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=18 "Built target 013"
 .PHONY : CMakeFiles/013.dir/all
 
 # Include target in all.
@@ -1556,7 +2296,7 @@ all: CMakeFiles/013.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/013.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/013.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/013.dir/rule
@@ -1583,7 +2323,7 @@ clean: CMakeFiles/013.dir/clean
 CMakeFiles/017.dir/all:
 	$(MAKE) -f CMakeFiles/017.dir/build.make CMakeFiles/017.dir/depend
 	$(MAKE) -f CMakeFiles/017.dir/build.make CMakeFiles/017.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 017"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 017"
 .PHONY : CMakeFiles/017.dir/all
 
 # Include target in all.
@@ -1620,7 +2360,7 @@ clean: CMakeFiles/017.dir/clean
 CMakeFiles/011.dir/all:
 	$(MAKE) -f CMakeFiles/011.dir/build.make CMakeFiles/011.dir/depend
 	$(MAKE) -f CMakeFiles/011.dir/build.make CMakeFiles/011.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target 011"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=15 "Built target 011"
 .PHONY : CMakeFiles/011.dir/all
 
 # Include target in all.
@@ -1630,7 +2370,7 @@ all: CMakeFiles/011.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/011.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/011.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/011.dir/rule
@@ -1651,76 +2391,113 @@ clean: CMakeFiles/011.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/010.dir
+# Target rules for target CMakeFiles/038.dir
 
 # All Build rule for target.
-CMakeFiles/010.dir/all:
-	$(MAKE) -f CMakeFiles/010.dir/build.make CMakeFiles/010.dir/depend
-	$(MAKE) -f CMakeFiles/010.dir/build.make CMakeFiles/010.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 010"
-.PHONY : CMakeFiles/010.dir/all
+CMakeFiles/038.dir/all:
+	$(MAKE) -f CMakeFiles/038.dir/build.make CMakeFiles/038.dir/depend
+	$(MAKE) -f CMakeFiles/038.dir/build.make CMakeFiles/038.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target 038"
+.PHONY : CMakeFiles/038.dir/all
 
 # Include target in all.
-all: CMakeFiles/010.dir/all
+all: CMakeFiles/038.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/010.dir/rule: cmake_check_build_system
+CMakeFiles/038.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/010.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/038.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/010.dir/rule
+.PHONY : CMakeFiles/038.dir/rule
 
 # Convenience name for target.
-010: CMakeFiles/010.dir/rule
+038: CMakeFiles/038.dir/rule
 
-.PHONY : 010
-
-# clean rule for target.
-CMakeFiles/010.dir/clean:
-	$(MAKE) -f CMakeFiles/010.dir/build.make CMakeFiles/010.dir/clean
-.PHONY : CMakeFiles/010.dir/clean
+.PHONY : 038
 
 # clean rule for target.
-clean: CMakeFiles/010.dir/clean
+CMakeFiles/038.dir/clean:
+	$(MAKE) -f CMakeFiles/038.dir/build.make CMakeFiles/038.dir/clean
+.PHONY : CMakeFiles/038.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/038.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/2115.dir
+# Target rules for target CMakeFiles/031.dir
 
 # All Build rule for target.
-CMakeFiles/2115.dir/all:
-	$(MAKE) -f CMakeFiles/2115.dir/build.make CMakeFiles/2115.dir/depend
-	$(MAKE) -f CMakeFiles/2115.dir/build.make CMakeFiles/2115.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target 2115"
-.PHONY : CMakeFiles/2115.dir/all
+CMakeFiles/031.dir/all:
+	$(MAKE) -f CMakeFiles/031.dir/build.make CMakeFiles/031.dir/depend
+	$(MAKE) -f CMakeFiles/031.dir/build.make CMakeFiles/031.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 031"
+.PHONY : CMakeFiles/031.dir/all
 
 # Include target in all.
-all: CMakeFiles/2115.dir/all
+all: CMakeFiles/031.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/2115.dir/rule: cmake_check_build_system
+CMakeFiles/031.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2115.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/031.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2115.dir/rule
+.PHONY : CMakeFiles/031.dir/rule
 
 # Convenience name for target.
-2115: CMakeFiles/2115.dir/rule
+031: CMakeFiles/031.dir/rule
 
-.PHONY : 2115
-
-# clean rule for target.
-CMakeFiles/2115.dir/clean:
-	$(MAKE) -f CMakeFiles/2115.dir/build.make CMakeFiles/2115.dir/clean
-.PHONY : CMakeFiles/2115.dir/clean
+.PHONY : 031
 
 # clean rule for target.
-clean: CMakeFiles/2115.dir/clean
+CMakeFiles/031.dir/clean:
+	$(MAKE) -f CMakeFiles/031.dir/build.make CMakeFiles/031.dir/clean
+.PHONY : CMakeFiles/031.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/031.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/018.dir
+
+# All Build rule for target.
+CMakeFiles/018.dir/all:
+	$(MAKE) -f CMakeFiles/018.dir/build.make CMakeFiles/018.dir/depend
+	$(MAKE) -f CMakeFiles/018.dir/build.make CMakeFiles/018.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=25 "Built target 018"
+.PHONY : CMakeFiles/018.dir/all
+
+# Include target in all.
+all: CMakeFiles/018.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/018.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/018.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/018.dir/rule
+
+# Convenience name for target.
+018: CMakeFiles/018.dir/rule
+
+.PHONY : 018
+
+# clean rule for target.
+CMakeFiles/018.dir/clean:
+	$(MAKE) -f CMakeFiles/018.dir/build.make CMakeFiles/018.dir/clean
+.PHONY : CMakeFiles/018.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/018.dir/clean
 
 .PHONY : clean
 
@@ -1731,7 +2508,7 @@ clean: CMakeFiles/2115.dir/clean
 CMakeFiles/005.dir/all:
 	$(MAKE) -f CMakeFiles/005.dir/build.make CMakeFiles/005.dir/depend
 	$(MAKE) -f CMakeFiles/005.dir/build.make CMakeFiles/005.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 005"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=6,7 "Built target 005"
 .PHONY : CMakeFiles/005.dir/all
 
 # Include target in all.
@@ -1768,7 +2545,7 @@ clean: CMakeFiles/005.dir/clean
 CMakeFiles/004.dir/all:
 	$(MAKE) -f CMakeFiles/004.dir/build.make CMakeFiles/004.dir/depend
 	$(MAKE) -f CMakeFiles/004.dir/build.make CMakeFiles/004.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 004"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=5 "Built target 004"
 .PHONY : CMakeFiles/004.dir/all
 
 # Include target in all.
@@ -1778,7 +2555,7 @@ all: CMakeFiles/004.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/004.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/004.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/004.dir/rule
@@ -1795,6 +2572,80 @@ CMakeFiles/004.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/004.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/045.dir
+
+# All Build rule for target.
+CMakeFiles/045.dir/all:
+	$(MAKE) -f CMakeFiles/045.dir/build.make CMakeFiles/045.dir/depend
+	$(MAKE) -f CMakeFiles/045.dir/build.make CMakeFiles/045.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target 045"
+.PHONY : CMakeFiles/045.dir/all
+
+# Include target in all.
+all: CMakeFiles/045.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/045.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/045.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/045.dir/rule
+
+# Convenience name for target.
+045: CMakeFiles/045.dir/rule
+
+.PHONY : 045
+
+# clean rule for target.
+CMakeFiles/045.dir/clean:
+	$(MAKE) -f CMakeFiles/045.dir/build.make CMakeFiles/045.dir/clean
+.PHONY : CMakeFiles/045.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/045.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/012.dir
+
+# All Build rule for target.
+CMakeFiles/012.dir/all:
+	$(MAKE) -f CMakeFiles/012.dir/build.make CMakeFiles/012.dir/depend
+	$(MAKE) -f CMakeFiles/012.dir/build.make CMakeFiles/012.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target 012"
+.PHONY : CMakeFiles/012.dir/all
+
+# Include target in all.
+all: CMakeFiles/012.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/012.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/012.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/leetcode/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/012.dir/rule
+
+# Convenience name for target.
+012: CMakeFiles/012.dir/rule
+
+.PHONY : 012
+
+# clean rule for target.
+CMakeFiles/012.dir/clean:
+	$(MAKE) -f CMakeFiles/012.dir/build.make CMakeFiles/012.dir/clean
+.PHONY : CMakeFiles/012.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/012.dir/clean
 
 .PHONY : clean
 
