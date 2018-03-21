@@ -54,84 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/god/Git/interview
+CMAKE_SOURCE_DIR = /Users/god/Git/matrix/interview
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/god/Git/interview/cmake-build-debug
-
-#=============================================================================
-# Target rules for target CMakeFiles/book1_002.dir
-
-# All Build rule for target.
-CMakeFiles/book1_002.dir/all:
-	$(MAKE) -f CMakeFiles/book1_002.dir/build.make CMakeFiles/book1_002.dir/depend
-	$(MAKE) -f CMakeFiles/book1_002.dir/build.make CMakeFiles/book1_002.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/cmake-build-debug/CMakeFiles --progress-num= "Built target book1_002"
-.PHONY : CMakeFiles/book1_002.dir/all
-
-# Include target in all.
-all: CMakeFiles/book1_002.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/book1_002.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/cmake-build-debug/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/book1_002.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/book1_002.dir/rule
-
-# Convenience name for target.
-book1_002: CMakeFiles/book1_002.dir/rule
-
-.PHONY : book1_002
-
-# clean rule for target.
-CMakeFiles/book1_002.dir/clean:
-	$(MAKE) -f CMakeFiles/book1_002.dir/build.make CMakeFiles/book1_002.dir/clean
-.PHONY : CMakeFiles/book1_002.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/book1_002.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/book1_001.dir
-
-# All Build rule for target.
-CMakeFiles/book1_001.dir/all:
-	$(MAKE) -f CMakeFiles/book1_001.dir/build.make CMakeFiles/book1_001.dir/depend
-	$(MAKE) -f CMakeFiles/book1_001.dir/build.make CMakeFiles/book1_001.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/god/Git/interview/cmake-build-debug/CMakeFiles --progress-num= "Built target book1_001"
-.PHONY : CMakeFiles/book1_001.dir/all
-
-# Include target in all.
-all: CMakeFiles/book1_001.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/book1_001.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/cmake-build-debug/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/book1_001.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/book1_001.dir/rule
-
-# Convenience name for target.
-book1_001: CMakeFiles/book1_001.dir/rule
-
-.PHONY : book1_001
-
-# clean rule for target.
-CMakeFiles/book1_001.dir/clean:
-	$(MAKE) -f CMakeFiles/book1_001.dir/build.make CMakeFiles/book1_001.dir/clean
-.PHONY : CMakeFiles/book1_001.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/book1_001.dir/clean
-
-.PHONY : clean
+CMAKE_BINARY_DIR = /Users/god/Git/matrix/interview/cmake-build-debug
 
 #=============================================================================
 # Special targets to cleanup operation of make.

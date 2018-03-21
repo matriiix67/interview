@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/god/Git/interview
+CMAKE_SOURCE_DIR = /Users/god/Git/matrix/interview
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/god/Git/interview/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/god/Git/matrix/interview/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/cmake-build-debug/CMakeFiles /Users/god/Git/interview/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/matrix/interview/cmake-build-debug/CMakeFiles /Users/god/Git/matrix/interview/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/interview/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/god/Git/matrix/interview/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -110,32 +110,6 @@ depend:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
-#=============================================================================
-# Target rules for targets named book1_002
-
-# Build rule for target.
-book1_002: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 book1_002
-.PHONY : book1_002
-
-# fast build rule for target.
-book1_002/fast:
-	$(MAKE) -f CMakeFiles/book1_002.dir/build.make CMakeFiles/book1_002.dir/build
-.PHONY : book1_002/fast
-
-#=============================================================================
-# Target rules for targets named book1_001
-
-# Build rule for target.
-book1_001: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 book1_001
-.PHONY : book1_001
-
-# fast build rule for target.
-book1_001/fast:
-	$(MAKE) -f CMakeFiles/book1_001.dir/build.make CMakeFiles/book1_001.dir/build
-.PHONY : book1_001/fast
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -144,8 +118,6 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... book1_002"
-	@echo "... book1_001"
 .PHONY : help
 
 

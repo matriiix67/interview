@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/god/Git/interview
+CMAKE_SOURCE_DIR = /Users/god/Git/matrix/interview
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/god/Git/interview/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/god/Git/matrix/interview/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/book1_002.dir/depend.make
@@ -66,6 +66,6 @@ CMakeFiles/book1_002.dir/clean:
 .PHONY : CMakeFiles/book1_002.dir/clean
 
 CMakeFiles/book1_002.dir/depend:
-	cd /Users/god/Git/interview/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/god/Git/interview /Users/god/Git/interview /Users/god/Git/interview/cmake-build-debug /Users/god/Git/interview/cmake-build-debug /Users/god/Git/interview/cmake-build-debug/CMakeFiles/book1_002.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/god/Git/matrix/interview/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/god/Git/matrix/interview /Users/god/Git/matrix/interview /Users/god/Git/matrix/interview/cmake-build-debug /Users/god/Git/matrix/interview/cmake-build-debug /Users/god/Git/matrix/interview/cmake-build-debug/CMakeFiles/book1_002.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/book1_002.dir/depend
 
