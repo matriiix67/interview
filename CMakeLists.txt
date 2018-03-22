@@ -11,6 +11,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 
 # 指定生成目标
+add_executable(092 leetcode/online/092.cpp)
 
 
 

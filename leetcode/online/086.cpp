@@ -7,9 +7,6 @@ struct ListNode {
     struct ListNode *next;
 };
 
-
-//题意理解错误
-
 struct ListNode* partition(struct ListNode* head, int x) {
     if(!head) return head;
 
